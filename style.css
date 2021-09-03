@@ -1,0 +1,26 @@
+body{
+    background-color: cornflowerblue;
+}
+
+#container{
+    background-color: rgb(20, 23, 37);
+    border: 5px solid white;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+    
+}
+p{
+    color: white;
+    font-size: 24px;
+}
+
+#input {
+    width: 100%;
+    margin: 25px auto;
+}
+
+#btn {
+    margin: 25px auto auto 5px;
+}
